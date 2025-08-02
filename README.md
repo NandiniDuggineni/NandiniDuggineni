@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Nandini 👋
 
-<!--
-**NandiniDuggineni/NandiniDuggineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud Engineer | AWS | DevOps 
+⚙️ Building scalable and resilient systems  
+🌱 Always learning new tech and sharing knowledge  
 
-Here are some ideas to get you started:
+## Projects  
+- [My AWS Demo App](https://github.com//)  
+- [Docker Flask App](https://github.com/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me  
+[LinkedIn](https://linkedin.com/in/) 
+
