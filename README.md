@@ -5,9 +5,13 @@
 🌱 Always learning new tech and sharing knowledge  
 
 ## Projects  
-- [My AWS Demo App](https://github.com//)  
-- [Docker Flask App](https://github.com/)  
+- [AWS]((https://github.com/NandiniDuggineni/NandiniDuggineni-Serverless-Image-Upload-and-Resizer-using-AWS-S3-Lambda-Event-Triggers))
+- [Azure](https://github.com//)
+- [Serverless](https://github.com//)  
+- [Docker](https://github.com/)
+- [Kubernates](https://github.com/)  
 
 ## Connect with me  
 [LinkedIn](https://linkedin.com/in/) 
+[Hashnode](https://nandiniduggineni.hashnode.dev/)
 
