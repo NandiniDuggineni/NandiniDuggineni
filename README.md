@@ -26,7 +26,7 @@
 
 ## Projects  Basic
 - AWS
-- [AWS](https://github.com//)
+- [AWS](https://github.com/NandiniDuggineni/Automating-CI-CD-with-GitHub-Actions-and-AWS/tree/main)
 - [Azure](https://github.com//)
 - [Serverless](https://github.com/NandiniDuggineni/NandiniDuggineni-Serverless-Image-Upload-and-Resizer-using-AWS-S3-Lambda-Event-Triggers)
 - Doker
