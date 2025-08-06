@@ -12,7 +12,7 @@
 - Doker
 - [Docker proj1](https://github.com/NandiniDuggineni/Building-a-Full-Stack-App-with-React-Flask-and-PostgreSQL-Using-Docker-Compose)
 - [Docker proj2](https://github.com/NandiniDuggineni/Deploy-a-Flask-Web-App-Behind-an-Nginx-Reverse-Proxy-Using-Docker)
-- [Docker proj3](https://github.com//)
+- [Docker proj3](https://github.com/NandiniDuggineni/Automate-Your-Python-Scripts-with-Cron-and-Docker)
 - Kubernates
 - [Kubernates](https://github.com/)  
 
@@ -21,9 +21,9 @@
 - [Azure](https://github.com//)
 - [Serverless](https://github.com//)
 - Doker
-- [Docker project1](https://github.com/NandiniDuggineni/Building-a-Full-Stack-App-with-React-Flask-and-PostgreSQL-Using-Docker-Compose)
-- [Docker project2](https://github.com/NandiniDuggineni/Deploy-a-Flask-Web-App-Behind-an-Nginx-Reverse-Proxy-Using-Docker)
-- [Docker project3](https://github.com/NandiniDuggineni/Deploy-a-Flask-Web-App-Behind-an-Nginx-Reverse-Proxy-Using-Docker)
+- [Docker project1](https://github.com//)
+- [Docker project2](https://github.com//)
+- [Docker project3](https://github.com//)
 - [Kubernates](https://github.com/) 
 
 ## Connect with me  
