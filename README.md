@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Areas I work in:
-- **AWS Cloud Infrastructure**
+- **AWS,Azure Cloud Infrastructure**
 - **DevOps & Automation** (Terraform, Ansible, GitHub Actions, CloudFormation)
 - **Containerization** (Docker, ECS, EKS, Kubernetes)
 - **Observability** (New Relic, CloudWatch, Prometheus)
