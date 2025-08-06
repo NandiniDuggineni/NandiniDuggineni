@@ -13,8 +13,8 @@ Observability (New Relic, CloudWatch, Prometheus)
 Security & Resilience Engineering
 
 📚 I love to document my learning journey through daily projects and technical blogs — hoping to help and be helped by the awesome developer community.
-Let's build better systems — one container, one script, and one idea at a time. 🚢 
-🌱 Always learning new tech and sharing knowledge  
+🚢 Let's build better systems — one container, one script, and one idea at a time.
+🌱 Always learning new tech and sharing knowledge.
 
 ## Projects  Basic
 - AWS
