@@ -1,7 +1,5 @@
 ## Hi there, I'm Nandini 👋
 
-# Hi there 👋 I'm Nandini
-
 🚀 A passionate **Cloud Engineer** with a strong focus on **AWS**, **DevOps**, and building **scalable, resilient, and cost-effective** systems in the cloud.
 
 💡 I thrive at the intersection of **engineering** and **ops**, where reliability meets innovation.
