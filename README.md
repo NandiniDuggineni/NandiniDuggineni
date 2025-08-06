@@ -21,7 +21,7 @@
 - [Azure](https://github.com//)
 - [Serverless](https://github.com//)
 - Doker
-- [Docker project1](https://github.com//)
+- [Docker project1](https://github.com/NandiniDuggineni/Full-Stack-Development-with-Docker-Compose/tree/main)
 - [Docker project2](https://github.com//)
 - [Docker project3](https://github.com//)
 - [Kubernates](https://github.com/) 
