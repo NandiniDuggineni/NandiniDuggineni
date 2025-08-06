@@ -1,7 +1,19 @@
 ## Hi there, I'm Nandini 👋
 
-🚀 Cloud Engineer | AWS | DevOps 
-⚙️ Building scalable and resilient systems  
+A passionate Cloud Engineer with a strong focus on AWS, DevOps, and building scalable, resilient, and cost-effective systems in the cloud. I enjoy solving real-world problems using automation, infrastructure as code, and observability-first principles.
+
+💡 I thrive at the intersection of engineering and ops, where reliability meets innovation.
+🧠 I'm a continuous learner — always experimenting with new tools, tech stacks, and best practices in cloud architecture, CI/CD pipelines, containerization (Docker, Kubernetes), and monitoring solutions.
+
+🛠️ Areas I work in:
+AWS Cloud Infrastructure
+DevOps & Automation (Terraform, Ansible, GitHub Actions, CloudFormation)
+Containerization (Docker, ECS, EKS, Kubernetes)
+Observability (New Relic, CloudWatch, Prometheus)
+Security & Resilience Engineering
+
+📚 I love to document my learning journey through daily projects and technical blogs — hoping to help and be helped by the awesome developer community.
+Let's build better systems — one container, one script, and one idea at a time. 🚢 
 🌱 Always learning new tech and sharing knowledge  
 
 ## Projects  Basic
