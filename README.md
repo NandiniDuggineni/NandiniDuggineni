@@ -27,7 +27,7 @@
 ## Projects  Basic
 - AWS
 - [AWS](https://github.com/NandiniDuggineni/Automating-CI-CD-with-GitHub-Actions-and-AWS/tree/main)
-- [Azure](https://github.com//)
+- [Azure](https://github.com/NandiniDuggineni/Deploying-an-Enterprise-Grade-AKS/tree/main)
 - [Serverless](https://github.com/NandiniDuggineni/NandiniDuggineni-Serverless-Image-Upload-and-Resizer-using-AWS-S3-Lambda-Event-Triggers)
 - Doker
 - [Docker proj1](https://github.com/NandiniDuggineni/Building-a-Full-Stack-App-with-React-Flask-and-PostgreSQL-Using-Docker-Compose)
