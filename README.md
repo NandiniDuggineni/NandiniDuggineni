@@ -38,7 +38,7 @@
 
 ## Projects Advanced
 - [AWS](https://github.com/NandiniDuggineni/Building-a-3-Tier-Web-App-with-Full-Observability-using-AWS-New-Relic)
-- [Azure](https://github.com//)
+- [Azure](https://github.com/NandiniDuggineni/Real-Time-Dashboard-with-Azure)
 - [Serverless](https://github.com//)
 - Doker
 - [Docker project1](https://github.com/NandiniDuggineni/Full-Stack-Development-with-Docker-Compose/tree/main)
